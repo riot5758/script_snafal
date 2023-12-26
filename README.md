@@ -1,6 +1,15 @@
-## <div class="rainbow-text" style="text-align: center;">
-	<span class="block-line"><span><span style="color:#00f1ff;">U</span><span style="color:#00ff70;">P</span><span style="color:#ff9a00;">G</span><span style="color:#bd00ff;">R</span><span style="color:#00ff5e;">D</span><span style="color:#ff5600;">A</span><span style="color:#ffec00;">E&nbsp;</span></span><span><span style="color:#beff00;">T</span><span style="color:#ff00d7;">O&nbsp;</span></span><span><span style="color:#ff0043;">D</span><span style="color:#00ff6a;">E</span><span style="color:#ff003e;">B</span><span style="color:#ff1d00;">A</span><span style="color:#00ff3a;">I</span><span style="color:#2400ff;">N</span></span></span>
-</div>
+## <style>
+.rainbow-text {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 50px;
+	text-shadow: #A3A3A3 1px 1px 1px;
+}
+.rainbow-text .block-line > span {
+	display: inline-block;
+}
+
+</style>
 
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
