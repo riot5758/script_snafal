@@ -1,5 +1,3 @@
-## <div class="css-rainbow-text">CSS Rainbow Text</div>
-
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
