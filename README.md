@@ -11,7 +11,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium by Snafal
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Dilangitygbiru/Apex/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Dilangitygbiru/snafal/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
@@ -21,4 +21,4 @@ Snafal :
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/Dilangitygbiru/Apex/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/Dilangitygbiru/snafal/main/update.sh && chmod +x update.sh && ./update.sh
