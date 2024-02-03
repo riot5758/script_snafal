@@ -24,7 +24,7 @@ Snafal :
 
 ### Link Group FB: 
 https://www.facebook.com/groups/311268268313569/?ref=share
-### Link Grouo WA :
+### Link Group WA :
 https://chat.whatsapp.com/F3nKTQSCXQcC4ts3224loG
 ### Info:
 * HARAP DI BACA DENGAN SEKSAMA
