@@ -25,7 +25,7 @@ Snafal :
 
 ## `WHATSHAP GROUP`
 Snafal :
-<br><br><a href="[ https://chat.whatsapp.com/F3nKTQSCXQcC4ts3224loG]()" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<br><br><a href="[ https://chat.whatsapp.com/F3nKTQSCXQcC4ts3224loG]()" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&group=Click%20Here&color=#006400">
 
 ### Link Group FB: 
 https://www.facebook.com/groups/311268268313569/?ref=share
