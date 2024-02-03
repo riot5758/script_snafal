@@ -19,10 +19,12 @@ Mod By PRANTAS TUNNEL
 Snafal :
 <br><br><a href="https://wa.me/+6285175160338" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
+## `WHATSHAP GROUP`
+Snafal :
+<br><br><a href="[https://wa.me/+6285175160338](https://chat.whatsapp.com/F3nKTQSCXQcC4ts3224loG)" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+
 ### Link Group FB: 
 https://www.facebook.com/groups/311268268313569/?ref=share
-### Link Group WA:
-https://chat.whatsapp.com/F3nKTQSCXQcC4ts3224loG
 ### Info:
 * HARAP DI BACA DENGAN SEKSAMA
 # SCRIPT INI KHUSUS UNTUK MEMBUAT SERVER VPN
