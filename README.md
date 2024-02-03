@@ -83,14 +83,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 * • jika tidak bisa login di vps ,gunakan port ssh
 * • 22, 2253
 
-
-
-* 2 • di menu lalu pilih 17 (SL-FIX Menu)
-```html
-17
- ```
-
-* 3 • jika sudah selesai lalu reboot/ hidupkan ulang vps nya
+* • jika sudah selesai lalu reboot/ hidupkan ulang vps nya
 ```html
 reboot
  ```
